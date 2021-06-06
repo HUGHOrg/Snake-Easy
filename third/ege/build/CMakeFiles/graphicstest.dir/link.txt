@@ -1,0 +1,3 @@
+D:\CMake\cmake-3.17.0-rc1-win64-x64\bin\cmake.exe -E rm -f CMakeFiles\graphicstest.dir/objects.a
+C:\PROGRA~2\MINGW-~1.ORG\mingw64\bin\ar.exe cr CMakeFiles\graphicstest.dir/objects.a @CMakeFiles\graphicstest.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1.ORG\mingw64\bin\G__~1.EXE -O3 -DNDEBUG  -mwindows -Wl,--whole-archive CMakeFiles\graphicstest.dir/objects.a -Wl,--no-whole-archive  -o graphicstest.exe -Wl,--out-implib,libgraphicstest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\graphicstest.dir\linklibs.rsp
